@@ -1,455 +1,254 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:062B1B,70:007A46,100:00FF88&height=220&section=header&text=CYRUS%20AKACHA%20CYPRIAN&fontSize=36&fontColor=E8FFF3&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=59&descSize=13" width="100%" alt="Cyrus Akacha Cyprian — developer profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:3A0CA3,60:B5179E,85:F72585,100:FF7A18&height=280&section=header&text=CYRUS%20AKACHA&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%C2%B7%20BUILDER%20%C2%B7%20active-X1&descAlignY=60&descSize=16&descColor=FFE9F5" width="100%" alt="Cyrus Akacha Cyprian"/>
+
+<a href="https://github.com/active-X1">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=780&height=50&lines=Turning+ideas+into+shipped+software;Python+%C2%B7+JavaScript+%C2%B7+TypeScript;Backend+%C2%B7+Web+%C2%B7+Automation+%C2%B7+Agentic+AI;Build+with+purpose.+Keep+improving." alt="Typing tagline"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/active-X1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Building+Practical+Software;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Backend+Engineering;From+Ideas+To+Deployed+Applications;Learning+Deeply.+Building+Deliberately." alt="Developer tagline"/>
-</a>
+<a href="https://github.com/active-X1"><img src="https://img.shields.io/badge/GITHUB-active--X1-0D0221?style=for-the-badge&logo=github&logoColor=F72585&labelColor=0D0221&color=3A0CA3" alt="GitHub"/></a>
+<a href="https://activex-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0D0221?style=for-the-badge&logo=vercel&logoColor=4CC9F0&labelColor=0D0221&color=3A0CA3" alt="Portfolio"/></a>
+<a href="https://x.com/cyrusakacha"><img src="https://img.shields.io/badge/X-@cyrusakacha-0D0221?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0221&color=3A0CA3" alt="X"/></a>
+<a href="https://www.instagram.com/cyrusakacha01/"><img src="https://img.shields.io/badge/INSTAGRAM-cyrusakacha01-0D0221?style=for-the-badge&logo=instagram&logoColor=F72585&labelColor=0D0221&color=3A0CA3" alt="Instagram"/></a>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/active-X1">
-  <img src="https://img.shields.io/badge/GitHub-active--X1-07130E?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/>
-</a>
-<a href="https://x.com/cyrusakacha">
-  <img src="https://img.shields.io/badge/X-@cyrusakacha-07130E?style=for-the-badge&logo=x&logoColor=00FF88" alt="X"/>
-</a>
-<a href="https://www.instagram.com/cyrusakacha01/">
-  <img src="https://img.shields.io/badge/Instagram-cyrusakacha01-07130E?style=for-the-badge&logo=instagram&logoColor=00FF88" alt="Instagram"/>
-</a>
-<a href="https://activex-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-07130E?style=for-the-badge&logo=vercel&logoColor=00FF88" alt="Portfolio"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=active-X1&style=flat-square&color=B5179E&label=PROFILE+VIEWS&labelColor=0D0221" alt="Profile views"/>
+<a href="https://github.com/active-X1?tab=followers"><img src="https://img.shields.io/github/followers/active-X1?style=flat-square&color=B5179E&labelColor=0D0221&logo=github&logoColor=F72585" alt="Followers"/></a>
+<a href="https://github.com/active-X1?tab=repositories"><img src="https://img.shields.io/github/stars/active-X1?style=flat-square&color=B5179E&labelColor=0D0221&logo=github&logoColor=F72585" alt="Stars"/></a>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=active-X1&style=for-the-badge&color=087F4B&label=PROFILE+VIEWS" alt="Profile views"/>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/active-X1?style=flat&color=00A86B&labelColor=07130E&logo=github)](https://github.com/active-X1?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/active-X1?style=flat&color=00A86B&labelColor=07130E&logo=github)](https://github.com/active-X1?tab=repositories)
+### ◢◤ &nbsp; I BUILD SOFTWARE THAT FEELS FINISHED &nbsp; ◥◣
 
 </div>
 
 ---
 
+## ◈ ABOUT
+
+I'm **Cyrus Akacha Cyprian**, a software developer who enjoys taking an idea all the way from a blank file to a deployed application. My work covers Python apps, full-stack web platforms, backend systems, databases, and automation, with a growing focus on **AI integration and agentic workflows**.
+
+I don't stop at "it works." I care about structure, security, data, and the small details that make a project feel complete.
+
 <div align="center">
 
-### `01 / THE DEVELOPER`
-
-**I turn ideas into practical software.**
-
-I’m Cyrus Akacha Cyprian — a software developer focused on building useful, responsive applications and understanding the engineering behind them. My work spans Python applications, modern web interfaces, backend systems, databases, and automation.
-
-I enjoy taking projects beyond the first working version: shaping the experience, connecting services, working with data, solving implementation challenges, and making the result useful.
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/01-PYTHON-00FF88?style=for-the-badge&labelColor=07130E" alt="Python"/>
-  <br/><sub>Application development</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/02-WEB-00FF88?style=for-the-badge&labelColor=07130E" alt="Web"/>
-  <br/><sub>Frontend experiences</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/03-BACKEND-00FF88?style=for-the-badge&labelColor=07130E" alt="Backend"/>
-  <br/><sub>APIs and data systems</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/04-AUTOMATION-00FF88?style=for-the-badge&labelColor=07130E" alt="Automation"/>
-  <br/><sub>Integrations and tooling</sub>
-</td>
-</tr>
-</table>
+| 🐍 **PYTHON** | 🌐 **WEB** | ⚙️ **BACKEND** | 🤖 **AUTOMATION & AI** |
+|:---:|:---:|:---:|:---:|
+| Apps & tooling | Responsive interfaces | APIs & data systems | Bots, agents, integrations |
 
 </div>
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Cyrus Akacha Cyprian"
-        self.username = "active-X1"
-        self.core = ["Python", "JavaScript"]
-        self.web = ["React", "TypeScript", "HTML", "CSS"]
-        self.interests = [
-            "Software Engineering",
-            "Backend Development",
-            "Application Architecture",
-            "Database Systems",
-            "AI Integration",
-            "Automation",
-        ]
-
-    def philosophy(self):
-        return "Build with purpose. Understand the system. Keep improving."
-
-
-me = Developer()
+    name = "Cyrus Akacha Cyprian"
+    handle = "active-X1"
+    stack = ["Python", "JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL"]
+    focus = ["Backend", "Web", "Automation", "Agentic AI"]
+    motto = "Build with purpose. Understand the system. Keep improving."
 ```
 
 ---
 
-## `02 / TECHNOLOGY TOOLKIT`
-
-A selection of technologies I use across projects and continue to develop through hands-on work.
+## ◈ TECH STACK
 
 <div align="center">
 
-**LANGUAGES**
+**LANGUAGES**<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS"/>
+**FRONTEND & PYTHON UI**<br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/><br/>
+<img src="https://img.shields.io/badge/NiceGUI-F72585?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="NiceGUI"/>
+<img src="https://img.shields.io/badge/Tkinter-B5179E?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Tkinter"/>
+<img src="https://img.shields.io/badge/Kivy-7209B7?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Kivy"/>
 
-<br/><br/>
+**BACKEND**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" alt="Backend"/>
 
-**FRONTEND & APPLICATION DEVELOPMENT**
+**DATA**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark" alt="Databases"/>
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
-<br/>
-<img src="https://img.shields.io/badge/NiceGUI-Python%20UI-00C878?style=for-the-badge&logo=python&logoColor=07130E" alt="NiceGUI"/>
-<img src="https://img.shields.io/badge/Tkinter-Desktop%20Apps-00C878?style=for-the-badge&logo=python&logoColor=07130E" alt="Tkinter"/>
-<img src="https://img.shields.io/badge/Kivy-Cross--Platform%20Apps-00C878?style=for-the-badge&logo=python&logoColor=07130E" alt="Kivy"/>
-
-<br/><br/>
-
-**BACKEND & FRAMEWORKS**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark" alt="Backend frameworks"/>
-
-<br/><br/>
-
-**DATABASES & SERVICES**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase&theme=dark" alt="Databases and services"/>
-
-<br/><br/>
-
-**TOOLS & PLATFORMS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,linux&theme=dark" alt="Tools and platforms"/>
+**TOOLS & DEPLOYMENT**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,linux&theme=dark" alt="Tools"/>
 
 </div>
 
-> My experience differs across tools and frameworks. I choose technologies based on the problem, keep learning their fundamentals, and aim to use them responsibly.
+> Experience varies across tools. I choose the right one for the problem and learn the fundamentals underneath it.
 
 ---
 
-## `03 / SELECTED WORK`
-
-Projects are where I explore ideas, learn new engineering concepts, and turn requirements into working applications.
+## ◈ FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎓 Student Hub
+**Academic collaboration platform (PWA)**
 
-**Academic collaboration & management platform**
-
-A department-focused PWA that brings academic updates, assignments, student activity, and administration into one place.
+Announcements, assignments, student activity and administration in one place.
 
 - Student authentication
-- Department announcements and feeds
-- Assignment publishing and submissions
+- Department feeds & announcements
+- Assignment publishing & submissions
 - Hashtag-based feed search
-- Administrative dashboard
+- Admin dashboard
 - PostgreSQL-backed data
-
-**Built with**
 
 `JavaScript` `Node.js` `Express` `PostgreSQL`
 
-<br/>
-
-<a href="https://github.com/active-X1/StudentHUB">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Student Hub repository"/>
-</a>
+<a href="https://github.com/active-X1/StudentHUB"><img src="https://img.shields.io/badge/VIEW%20SOURCE-F72585?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Student Hub"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚽ Elite Ballers FC
-
 **Football club management platform**
 
-A football-focused platform combining a public club website with tools for managing team operations.
+A public club website combined with the tools to run the team behind it.
 
 - Player management
-- Fixtures and match results
-- Club news and announcements
-- Photo galleries
+- Fixtures & match results
+- News, announcements & galleries
 - Weekly dues tracking
-- Admin authentication and role-based access
+- Role-based admin access
 - Supabase Row Level Security
-
-**Built with**
 
 `JavaScript` `Supabase` `PostgreSQL` `HTML` `CSS`
 
-<br/>
-
-<a href="https://github.com/active-X1/elite_ballers_fc">
-  <img src="https://img.shields.io/badge/REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Elite Ballers repository"/>
-</a>
-<a href="https://elite-ballers-fc.onrender.com/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-07130E?style=for-the-badge&logo=render&logoColor=00FF88" alt="Elite Ballers live demo"/>
-</a>
+<a href="https://github.com/active-X1/elite_ballers_fc"><img src="https://img.shields.io/badge/SOURCE-F72585?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Elite Ballers source"/></a>
+<a href="https://elite-ballers-fc.onrender.com/"><img src="https://img.shields.io/badge/LIVE%20DEMO-4CC9F0?style=for-the-badge&logo=render&logoColor=0D0221" alt="Elite Ballers demo"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🧩 Campus Desk
-
-**Python student management system**
-
-A multi-interface student management application exploring how one application can serve different environments.
-
-- Desktop, web, mobile and terminal interfaces
-- Student record management
-- SQLite integration
-- Search and sorting
-- Analytics and CSV export
-- Shared application logic
-
-**Built with**
-
-`Python` `SQLite` `Tkinter` `Kivy` `NiceGUI`
-
-<br/>
-
-<a href="https://github.com/active-X1/Student-Management-System">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Campus Desk repository"/>
-</a>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🤖 CyrusBot
+**Modular WhatsApp automation platform**
 
-**WhatsApp automation platform**
+Commands, group tools, games and AI on a clean modular structure.
 
-A modular WhatsApp bot built around messaging utilities, group features, interactive commands, and integrations.
-
-- Pairing and session authentication
-- AI conversations through OpenRouter
+- Pairing & session authentication
+- AI conversations via OpenRouter
 - Group administration utilities
-- Encryption and decryption commands
+- Encryption / decryption commands
 - Interactive games
 - Image-generation integration
-- Modular command structure
-
-**Built with**
 
 `JavaScript` `Node.js` `Baileys` `OpenRouter`
 
-<br/>
-
-<a href="https://github.com/active-X1/CyrusBot">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="CyrusBot repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Rock Paper Scissors
-
-**Interactive game**
-
-A modern take on the classic game, with a responsive interface and terminal gameplay.
-
-- Live score tracking
-- Win streaks and round history
-- Keyboard shortcuts
-- Custom SVG artwork
-- Responsive NiceGUI interface
-
-**Built with**
-
-`Python` `NiceGUI` `SVG`
-
-<br/>
-
-<a href="https://github.com/active-X1/Rock-paper-scissors">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Rock Paper Scissors repository"/>
-</a>
+<a href="https://github.com/active-X1/CyrusBot"><img src="https://img.shields.io/badge/VIEW%20SOURCE-F72585?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CyrusBot"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Maths Frenzy
+### 🧩 Campus Desk
+**One student-management core, four interfaces**
 
-**Mental mathematics game**
+Shared application logic serving desktop, web, mobile and terminal.
 
-A timed maths game and calculator built around a shared application engine.
+- Student record management
+- SQLite integration
+- Search & sorting
+- Analytics & CSV export
+- Desktop · Web · Mobile · CLI
 
-- Multiple difficulty levels
-- Four arithmetic operations
-- Timed challenges and score tracking
-- Terminal, desktop and web interfaces
+`Python` `SQLite` `Tkinter` `Kivy` `NiceGUI`
 
-**Built with**
-
-`Python` `Tkinter` `NiceGUI`
-
-<br/>
-
-<a href="https://github.com/active-X1/Maths-Frenzy">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Maths Frenzy repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Aurora 2 Number Calculator
-
-**Desktop utility**
-
-An aurora-inspired desktop calculator with practical calculation tools.
-
-- Six arithmetic operations
-- Decimal calculations
-- Calculation history
-- Keyboard shortcuts
-- Interactive terminal mode
-
-**Built with**
-
-`Python` `Tkinter`
-
-<br/>
-
-<a href="https://github.com/active-X1/Aurora-2-num-calc">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Aurora calculator repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ Brightness Controller
-
-**Desktop utility**
-
-A lightweight desktop application for controlling screen brightness through a graphical interface.
-
-- Brightness adjustment
-- Current brightness display
-- Theme toggle
-- About dialog
-
-**Built with**
-
-`Python` `CustomTkinter`
-
-<br/>
-
-<a href="https://github.com/active-X1/brightness_controller">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Brightness Controller repository"/>
-</a>
+<a href="https://github.com/active-X1/Student-Management-System"><img src="https://img.shields.io/badge/VIEW%20SOURCE-F72585?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Campus Desk"/></a>
 
 </td>
 </tr>
 </table>
 
+### 🔧 Utilities & Games
+
+| Project | What it does | Stack | Link |
+|:--|:--|:--|:--|
+| 🎮 **Rock Paper Scissors** | Score tracking, streaks, round history, shortcuts, custom SVG art | `Python` `NiceGUI` | [Repo](https://github.com/active-X1/Rock-paper-scissors) |
+| 🧠 **Maths Frenzy** | Timed mental-maths game with difficulty levels on terminal, desktop and web | `Python` `Tkinter` `NiceGUI` | [Repo](https://github.com/active-X1/Maths-Frenzy) |
+| 🌌 **Aurora Calculator** | Aurora-themed desktop calculator with history and shortcuts | `Python` `Tkinter` | [Repo](https://github.com/active-X1/Aurora-2-num-calc) |
+| ☀️ **Brightness Controller** | Lightweight GUI for screen brightness with theme toggle | `Python` `CustomTkinter` | [Repo](https://github.com/active-X1/brightness_controller) |
+
 <div align="center">
 
-<a href="https://github.com/active-X1?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00FF88?style=for-the-badge&logo=github&logoColor=07130E" alt="Explore all repositories"/>
-</a>
+<a href="https://github.com/active-X1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES%20%E2%86%92-B5179E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="All repositories"/></a>
 
 </div>
 
 ---
 
-## `04 / HOW I APPROACH DEVELOPMENT`
+## ◈ HOW I WORK
 
 ```text
-01  UNDERSTAND    Break down the problem before reaching for a solution.
-02  DESIGN        Think about structure, users, data, and maintainability.
-03  BUILD         Implement features with the right tools for the job.
-04  TEST          Check expected behaviour and handle edge cases.
-05  REFINE        Improve usability, reliability, and code quality.
-06  SHIP          Deploy, learn from feedback, and iterate.
+01  UNDERSTAND   Break the problem down before reaching for a solution.
+02  DESIGN       Structure, users, data, maintainability.
+03  BUILD        Right tool, clean implementation.
+04  TEST         Expected behaviour, edge cases, failure modes.
+05  REFINE       Usability, reliability, code quality.
+06  SHIP         Deploy, learn from feedback, iterate.
 ```
-
-I want to build software that is not only functional, but understandable, maintainable, and useful beyond the development environment.
 
 ---
 
-## `05 / CURRENT FOCUS`
+## ◈ CURRENT FOCUS
 
 <div align="center">
 
 | AREA | DIRECTION |
-|:---|:---|
-| Software architecture | Maintainable application structure |
-| Backend engineering | APIs, authentication and integrations |
-| Databases | Data modelling, queries and security |
-| Frontend engineering | Responsive, accessible interfaces |
-| Quality | Testing, debugging and reliability |
-| AI & automation | Useful integrations and intelligent workflows |
+|:--|:--|
+| 🏗️ Architecture | Maintainable, well-structured applications |
+| ⚙️ Backend | APIs, authentication, integrations |
+| 🗄️ Databases | Data modelling, queries, security |
+| 🎨 Frontend | Responsive, accessible interfaces |
+| 🧪 Quality | Testing, debugging, reliability |
+| 🤖 AI & Agents | Agentic workflows and intelligent automation |
 
 </div>
 
 ---
 
-## `06 / GITHUB ACTIVITY`
+## ◈ GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=active-X1&show_icons=true&hide_border=true&bg_color=050B08&title_color=00FF88&icon_color=00FF88&text_color=E6FFF0&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=active-X1&layout=compact&hide_border=true&bg_color=050B08&title_color=00FF88&text_color=E6FFF0" width="49%" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=active-X1&show_icons=true&hide_border=true&bg_color=0D0221&title_color=F72585&icon_color=4CC9F0&text_color=E8E6FF&rank_icon=github" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=active-X1&layout=compact&hide_border=true&bg_color=0D0221&title_color=F72585&text_color=E8E6FF" width="49%" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=active-X1&theme=dark&hide_border=true&background=050B08&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=E6FFF0&dates=9BB7A7" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=active-X1&theme=dark&hide_border=true&background=0D0221&ring=F72585&fire=FF7A18&currStreakNum=FFFFFF&currStreakLabel=F72585&sideNums=FFFFFF&sideLabels=4CC9F0&dates=9A8FC7" width="80%" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=active-X1&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## `07 / THE MINDSET`
-
-<div align="center">
-
-```python
-while True:
-    learn()
-    question_assumptions()
-    build()
-    test()
-    debug()
-    improve()
-```
-
-### Build with purpose. Understand the system. Keep improving.
-
-*Good software is not just code that works. It's a solution that makes sense.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=active-X1&bg_color=0D0221&color=F72585&line=F72585&point=4CC9F0&area=true&area_color=7209B7&hide_border=true" width="100%" alt="Contribution graph"/>
 
 <br/>
 
-<a href="https://activex-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=07130E" alt="Explore portfolio"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=active-X1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="Trophies"/>
 
-<a href="https://github.com/active-X1?tab=repositories">
-  <img src="https://img.shields.io/badge/BROWSE%20MY%20CODE-07130E?style=for-the-badge&logo=github&logoColor=00FF88" alt="Browse repositories"/>
-</a>
+</div>
+
+---
+
+<div align="center">
+
+### Build with purpose. Understand the system. Keep improving.
+
+*Good software isn't just code that runs. It's a solution that makes sense.*
+
+<br/>
+
+<a href="https://activex-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-F72585?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+<a href="https://github.com/active-X1?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20THE%20CODE-3A0CA3?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Code"/></a>
 
 <br/><br/>
 
@@ -458,8 +257,6 @@ while True:
 <a href="https://www.instagram.com/cyrusakacha01/">Instagram</a> ·
 <a href="https://activex-portfolio.vercel.app/">Portfolio</a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,45:007A46,75:062B1B,100:050505&height=130&section=footer" width="100%" alt="Green footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,35:F72585,65:B5179E,100:0D0221&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
